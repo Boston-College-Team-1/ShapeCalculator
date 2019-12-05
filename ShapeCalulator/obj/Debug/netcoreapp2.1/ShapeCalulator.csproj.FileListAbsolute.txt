@@ -1,0 +1,4 @@
+D:\ShapeCalculator-Dev-Dodecahedron\ShapeCalculator-Dev-Dodecahedron\ShapeCalulator\obj\Debug\netcoreapp2.1\ShapeCalulator.csprojAssemblyReference.cache
+D:\ShapeCalculator-Dev-Dodecahedron\ShapeCalculator-Dev-Dodecahedron\ShapeCalulator\obj\Debug\netcoreapp2.1\ShapeCalulator.csproj.CoreCompileInputs.cache
+D:\ShapeCalculator-Dev-Dodecahedron\ShapeCalculator-Dev-Dodecahedron\ShapeCalulator\obj\Debug\netcoreapp2.1\ShapeCalulator.AssemblyInfoInputs.cache
+D:\ShapeCalculator-Dev-Dodecahedron\ShapeCalculator-Dev-Dodecahedron\ShapeCalulator\obj\Debug\netcoreapp2.1\ShapeCalulator.AssemblyInfo.cs

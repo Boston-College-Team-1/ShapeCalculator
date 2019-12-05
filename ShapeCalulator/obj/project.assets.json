@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\164761\\.nuget\\packages\\": {},
+    "C:\\Users\\166231\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming Projects\\Competition\\ShapeCalulator\\ShapeCalulator.csproj",
+      "projectUniqueName": "D:\\ShapeCalculator-Dev-Dodecahedron\\ShapeCalculator-Dev-Dodecahedron\\ShapeCalulator\\ShapeCalulator.csproj",
       "projectName": "ShapeCalulator",
-      "projectPath": "D:\\Programming Projects\\Competition\\ShapeCalulator\\ShapeCalulator.csproj",
-      "packagesPath": "C:\\Users\\164761\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming Projects\\Competition\\ShapeCalulator\\obj\\",
+      "projectPath": "D:\\ShapeCalculator-Dev-Dodecahedron\\ShapeCalculator-Dev-Dodecahedron\\ShapeCalulator\\ShapeCalulator.csproj",
+      "packagesPath": "C:\\Users\\166231\\.nuget\\packages\\",
+      "outputPath": "D:\\ShapeCalculator-Dev-Dodecahedron\\ShapeCalculator-Dev-Dodecahedron\\ShapeCalulator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\164761\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\166231\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
