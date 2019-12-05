@@ -21,5 +21,15 @@ namespace ShapeCalulator
             }
             return result;
         }
+        public static int CollectInt(string variableName)
+        {
+            Console.WriteLine($"Please enter the {variableName}: ");
+            if (!int.TryParse(Console.ReadLine(), out int result))
+            {
+                Console.WriteLine("Invalid input - please try again");
+                CollectInt(variableName);
+            }
+            return result;
+        }
     }
 }
