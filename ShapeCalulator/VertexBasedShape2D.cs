@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ShapeCalulator
 {
-    abstract class VertexBasedShape2D : Shape2D
+    class VertexBasedShape2D : Shape2D
     {
         protected double width;
         protected double length;
