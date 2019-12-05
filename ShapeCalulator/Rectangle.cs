@@ -4,14 +4,11 @@ using System.Text;
 
 namespace ShapeCalulator
 {
-    class Shape2D : Shape
+    class Rectangle
     {
-        protected double area;
-        protected double perimeter;
-
         public override void Run()
         {
-           
+
         }
     }
 }
