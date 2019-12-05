@@ -6,7 +6,8 @@ namespace ShapeCalulator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MainMenu mainMenu = new MainMenu();
+            mainMenu.Run();
         }
     }
 }
