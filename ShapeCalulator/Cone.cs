@@ -18,8 +18,8 @@ namespace ShapeCalulator
         }
         public override void Run()
         {
-            radius = InputOutput.CollectDouble("Please enter Radius of cone");
-            height = InputOutput.CollectDouble("Please enter height of cone");
+            radius = InputOutput.CollectDouble("radius");
+            height = InputOutput.CollectDouble("height");
             CalculateSA();
             Console.WriteLine($"the surface area is {surfaceArea}");
             CalculateVolume();

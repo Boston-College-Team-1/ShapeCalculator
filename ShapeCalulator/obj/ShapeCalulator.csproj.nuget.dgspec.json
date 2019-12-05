@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ShapeCalculator-master\\ShapeCalculator-master\\ShapeCalulator\\ShapeCalulator.csproj": {}
+    "C:\\Users\\164761\\Downloads\\ShapeCalculator-Dev-Dodecahedron\\ShapeCalculator-Dev-Dodecahedron\\ShapeCalulator\\ShapeCalulator.csproj": {}
   },
   "projects": {
-    "E:\\ShapeCalculator-master\\ShapeCalculator-master\\ShapeCalulator\\ShapeCalulator.csproj": {
+    "C:\\Users\\164761\\Downloads\\ShapeCalculator-Dev-Dodecahedron\\ShapeCalculator-Dev-Dodecahedron\\ShapeCalulator\\ShapeCalulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ShapeCalculator-master\\ShapeCalculator-master\\ShapeCalulator\\ShapeCalulator.csproj",
+        "projectUniqueName": "C:\\Users\\164761\\Downloads\\ShapeCalculator-Dev-Dodecahedron\\ShapeCalculator-Dev-Dodecahedron\\ShapeCalulator\\ShapeCalulator.csproj",
         "projectName": "ShapeCalulator",
-        "projectPath": "E:\\ShapeCalculator-master\\ShapeCalculator-master\\ShapeCalulator\\ShapeCalulator.csproj",
-        "packagesPath": "C:\\Users\\161168.EMPIRE\\.nuget\\packages\\",
-        "outputPath": "E:\\ShapeCalculator-master\\ShapeCalculator-master\\ShapeCalulator\\obj\\",
+        "projectPath": "C:\\Users\\164761\\Downloads\\ShapeCalculator-Dev-Dodecahedron\\ShapeCalculator-Dev-Dodecahedron\\ShapeCalulator\\ShapeCalulator.csproj",
+        "packagesPath": "C:\\Users\\164761\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\164761\\Downloads\\ShapeCalculator-Dev-Dodecahedron\\ShapeCalculator-Dev-Dodecahedron\\ShapeCalulator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\161168.EMPIRE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\164761\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

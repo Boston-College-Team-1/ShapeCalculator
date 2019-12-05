@@ -9,3 +9,14 @@ E:\ShapeCalculator-master\ShapeCalculator-master\ShapeCalulator\obj\Debug\netcor
 E:\ShapeCalculator-master\ShapeCalculator-master\ShapeCalulator\obj\Debug\netcoreapp2.1\ShapeCalulator.AssemblyInfo.cs
 E:\ShapeCalculator-master\ShapeCalculator-master\ShapeCalulator\obj\Debug\netcoreapp2.1\ShapeCalulator.dll
 E:\ShapeCalculator-master\ShapeCalculator-master\ShapeCalulator\obj\Debug\netcoreapp2.1\ShapeCalulator.pdb
+C:\Users\164761\Downloads\ShapeCalculator-Dev-Dodecahedron\ShapeCalculator-Dev-Dodecahedron\ShapeCalulator\obj\Debug\netcoreapp2.1\ShapeCalulator.csprojAssemblyReference.cache
+C:\Users\164761\Downloads\ShapeCalculator-Dev-Dodecahedron\ShapeCalculator-Dev-Dodecahedron\ShapeCalulator\obj\Debug\netcoreapp2.1\ShapeCalulator.csproj.CoreCompileInputs.cache
+C:\Users\164761\Downloads\ShapeCalculator-Dev-Dodecahedron\ShapeCalculator-Dev-Dodecahedron\ShapeCalulator\obj\Debug\netcoreapp2.1\ShapeCalulator.AssemblyInfoInputs.cache
+C:\Users\164761\Downloads\ShapeCalculator-Dev-Dodecahedron\ShapeCalculator-Dev-Dodecahedron\ShapeCalulator\obj\Debug\netcoreapp2.1\ShapeCalulator.AssemblyInfo.cs
+C:\Users\164761\Downloads\ShapeCalculator-Dev-Dodecahedron\ShapeCalculator-Dev-Dodecahedron\ShapeCalulator\obj\Debug\netcoreapp2.1\ShapeCalulator.dll
+C:\Users\164761\Downloads\ShapeCalculator-Dev-Dodecahedron\ShapeCalculator-Dev-Dodecahedron\ShapeCalulator\obj\Debug\netcoreapp2.1\ShapeCalulator.pdb
+C:\Users\164761\Downloads\ShapeCalculator-Dev-Dodecahedron\ShapeCalculator-Dev-Dodecahedron\ShapeCalulator\bin\Debug\netcoreapp2.1\ShapeCalulator.deps.json
+C:\Users\164761\Downloads\ShapeCalculator-Dev-Dodecahedron\ShapeCalculator-Dev-Dodecahedron\ShapeCalulator\bin\Debug\netcoreapp2.1\ShapeCalulator.runtimeconfig.json
+C:\Users\164761\Downloads\ShapeCalculator-Dev-Dodecahedron\ShapeCalculator-Dev-Dodecahedron\ShapeCalulator\bin\Debug\netcoreapp2.1\ShapeCalulator.runtimeconfig.dev.json
+C:\Users\164761\Downloads\ShapeCalculator-Dev-Dodecahedron\ShapeCalculator-Dev-Dodecahedron\ShapeCalulator\bin\Debug\netcoreapp2.1\ShapeCalulator.dll
+C:\Users\164761\Downloads\ShapeCalculator-Dev-Dodecahedron\ShapeCalculator-Dev-Dodecahedron\ShapeCalulator\bin\Debug\netcoreapp2.1\ShapeCalulator.pdb

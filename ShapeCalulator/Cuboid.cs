@@ -16,9 +16,9 @@ namespace ShapeCalulator
         }
         public override void Run()
         {
-            length = InputOutput.CollectDouble("Please enter height of Cuboid");
-            width = InputOutput.CollectDouble("Please enter width of Cuboid");
-            height = InputOutput.CollectDouble("Please enter height of Cuboid");
+            length = InputOutput.CollectDouble("cuboid");
+            width = InputOutput.CollectDouble("cuboid");
+            height = InputOutput.CollectDouble("cuboid");
             CalculateSA();
             Console.WriteLine($"the surface area is {surfaceArea}");
             CalculateVolume();
