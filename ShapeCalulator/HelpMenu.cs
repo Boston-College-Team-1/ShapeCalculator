@@ -4,9 +4,7 @@ using System.Text;
 
 namespace ShapeCalulator
 {
-    abstract class Shape2D : Shape
+    class HelpMenu
     {
-        protected double area;
-        protected double perimeter;
     }
 }
