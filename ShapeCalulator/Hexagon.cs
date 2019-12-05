@@ -16,6 +16,7 @@ namespace ShapeCalulator
         void Input()
         {
             length = InputOutput.CollectDouble("Edge Length");
+            
         }
         void CalculateArea() => area = ((3 * Math.Sqrt(3)) / 4) * Math.Pow(length, 2);
         void CalculatePerimeter() => perimeter = 6 * length;

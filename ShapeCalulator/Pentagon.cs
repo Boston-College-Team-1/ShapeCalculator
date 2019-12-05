@@ -16,7 +16,7 @@ namespace ShapeCalulator
         {
             length = InputOutput.CollectDouble("Edge Length");
         }
-        void CalculateArea() => area = 1 / 4 * Math.Sqrt(5 * (5 + 2 * Math.Sqrt(5)) * Math.Pow(length, 2);
+        void CalculateArea() => area = 1 / 4 * Math.Sqrt(5 * (5 + 2 * Math.Sqrt(5)) * Math.Pow(length, 2));
         void Output()
         {
             InputOutput.OutputDouble("Area", area);

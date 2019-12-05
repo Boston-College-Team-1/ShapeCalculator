@@ -7,5 +7,6 @@ namespace ShapeCalulator
     abstract class NonVertexBasedShape3D : Shape3D
     {
         protected double radius;
+        protected double length;
     }
 }
