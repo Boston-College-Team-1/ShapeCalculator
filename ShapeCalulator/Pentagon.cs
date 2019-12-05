@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ShapeCalulator
 {
-    class Dodecahedron: VertexBasedShape3D
+    abstract class Pentagon: VertexBasedShape2D
     {
         public override void Run()
         {
@@ -16,12 +16,11 @@ namespace ShapeCalulator
         {
             length = InputOutput.CollectDouble("Edge Length");
         }
-        void CalculateArea() => area
-        void Output() 
+        void CalculateArea() => area = 1 / 4 * Math.Sqrt(5 * (5 + 2 * Math.Sqrt(5)) * Math.Pow(length, 2);
+        void Output()
         {
-
-            InputOutput.OutputDouble("Surface Area", surfaceArea);
+            InputOutput.OutputDouble("Area", area);
         }
-
     }
+
 }
